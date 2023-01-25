@@ -21,4 +21,4 @@ composer remove bryanyang0528/lang-traditional-chinese-zh-tw
 
 
 ### 回報問題 / Report Issue
-  - 繁體中文（zh-TW） / Traditional Chinese(zh-TW): [Github](https://github.com/bryanyang0528/lang-traditional-chinese-zh-tw/issues)
+  - 繁體中文(zh-Hant-TW) / Traditional Chinese(zh-Hant-TW): [Github](https://github.com/bryanyang0528/lang-traditional-chinese-zh-tw/issues)
