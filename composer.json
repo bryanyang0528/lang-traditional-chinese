@@ -4,8 +4,8 @@
   "keywords": [
     "flarum",
     "locale",
-    "Chinsese(zh-Hant-TW)",
-    "中文(zh-tw)"
+    "Chinsese-zh-Hant-TW",
+    "中文-zh-tw"
   ],
   "type": "flarum-extension",
   "license": "MIT",
