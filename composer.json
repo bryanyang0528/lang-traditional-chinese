@@ -24,7 +24,7 @@
   },
   "extra": {
     "flarum-extension": {
-      "title": "正體中文（zh-tw）語言包",
+      "title": "繁體中文（zh-tw）語言包",
         "icon": {
           "image": "icon.svg",
           "backgroundColor": "#fff",
