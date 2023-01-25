@@ -5,14 +5,14 @@
 
 ### 安裝 / Installation
 ```
-composer require bryanyang0528/lang-traditional-chinese
-composer require bryanyang0528/lang-traditional-chinese
+composer require bryanyang0528/lang-traditional-chinese-zh-tw
+composer require bryanyang0528/lang-traditional-chinese-zh-tw
 ```
 
 ### 移除 / Remove
 ```
-composer remove bryanyang0528/lang-traditional-chinese
-composer remove bryanyang0528/lang-traditional-chinese
+composer remove bryanyang0528/lang-traditional-chinese-zh-tw
+composer remove bryanyang0528/lang-traditional-chinese-zh-tw
 ```
 
 ### 在地化（zh-TW） / Localization
@@ -21,4 +21,4 @@ composer remove bryanyang0528/lang-traditional-chinese
 
 
 ### 回報問題 / Report Issue
-  - 繁體中文（zh-TW） / Traditional Chinese(zh-TW): [Github](https://github.com/bryanyang0528/lang-traditional-chinese/issues)
+  - 繁體中文（zh-TW） / Traditional Chinese(zh-TW): [Github](https://github.com/bryanyang0528/lang-traditional-chinese-zh-tw/issues)
