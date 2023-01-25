@@ -13,7 +13,7 @@ askvortsov-saml:
     options:
       nameid_format:
         persistent: 持久化（如果支援，推薦使用）
-        emailAddress: 郵箱（預設，如果不支援持久化）
+        emailAddress: 信箱（預設，如果不支援持久化）
         unspecified: 未指定
   forum:
     log_in:

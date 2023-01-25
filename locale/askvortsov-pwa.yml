@@ -41,7 +41,7 @@ askvortsov-pwa:
             sw_not_accessible: 'Service Worker 檔不可訪問，檔案應當位於 https://YOUR_FLARUM_SITE_URL/sw.js。如果位置不正確，請檢查服務區配置；如果位置正確，請忽略。'
             success: 未發現潛在問題！
             key_gen_failed: '推送通知所需的密鑰生成失敗。錯誤信息：{error}'
-            suggest_gmp: '你的服務器似乎沒有啟用 gmp PHP 擴展。此擴展非必需，但可提高應用性能，建議使用。不過有些共享主機可能不支持安裝。'
+            suggest_gmp: '你的服務器似乎沒有啟用 gmp PHP 擴充套件。此擴充套件非必需，但可提高應用性能，建議使用。不過有些共享主機可能不支援安裝。'
     forum:
         alerts:
             optin: 您已啟用推送通知，但還沒有配置此設備。
@@ -59,11 +59,11 @@ askvortsov-pwa:
                 access_default_button: 同意
                 access_denied: 您必須調整您的瀏覽器設置才能在此設備上接收推送通知。
                 access_denied_button: 如何設置
-                no_browser_support: '抱歉，該瀏覽器不支持漸進式 Web 應用程序的推送通知。'
+                no_browser_support: '抱歉，該瀏覽器不支援漸進式 Web 應用程序的推送通知。'
                 no_browser_support_button: 了解更多
         user_controls:
             share_button: 分享
     views:
         offline:
             header: 網絡連接錯誤
-            text: 您正在訪問應用程序不支持離線使用，請檢查網絡連接。
+            text: 您正在訪問應用程序不支援離線使用，請檢查網絡連接。

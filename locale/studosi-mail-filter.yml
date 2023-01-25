@@ -4,8 +4,8 @@
 studosi-mail-filter:
     admin:
         nav:
-            title: 郵箱過濾
-            desc: 允許和禁止註冊的郵箱
+            title: 信箱過濾
+            desc: 允許和禁止註冊的信箱
 
         settings:
             rule:
@@ -19,7 +19,7 @@ studosi-mail-filter:
         whitelist:
             label: 白名單
             desc: 嚴格匹配
-            placeholder: 新增郵箱...
+            placeholder: 新增信箱...
 
         whitelist_regex:
             label: 正規表示式
@@ -29,7 +29,7 @@ studosi-mail-filter:
         blacklist:
             label: 黑名單
             desc: 嚴格匹配
-            placeholder: 新增郵箱...
+            placeholder: 新增信箱...
 
         blacklist_regex:
             label: 正規表示式
@@ -38,7 +38,7 @@ studosi-mail-filter:
 
         import:
             label: 匯入設定
-            desc: 匯入郵箱白名單、黑名單及白名單正規表示式、黑名單正規表示式。
+            desc: 匯入信箱白名單、黑名單及白名單正規表示式、黑名單正規表示式。
             button: 匯入
 
         error:
@@ -48,5 +48,5 @@ studosi-mail-filter:
         error:
             generic: "遇到錯誤，請聯絡論壇管理員。"
 
-            blacklisted: "這個郵箱或郵箱後綴不在論壇黑名單中。"
-            not_whitelisted: "這個郵箱或郵箱後綴不在論壇白名單中。"
+            blacklisted: "這個信箱或信箱後綴不在論壇黑名單中。"
+            not_whitelisted: "這個信箱或信箱後綴不在論壇白名單中。"

@@ -1,6 +1,6 @@
 {
-  "name": "pattinsonfuture/lang-traditional-chinese",
-  "description": "Flarum 正體中文語言包",
+  "name": "bryanyang0528/lang-traditional-chinese",
+  "description": "Flarum 正體中文語言包（zh-TW）",
   "keywords": [
     "flarum",
     "locale",
@@ -11,21 +11,20 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "pattinsonfuture",
-      "email": "pattinsonfuture@gmail.com",
-      "homepage": "https://game.yolk.club/"
+      "name": "bryanyang0528",
+      "email": "bryanyang0528@gmail.com"
     }
   ],
   "support": {
-    "source": "https://github.com/pattinsonfuture/lang-traditional-chinese",
-    "issues": "https://github.com/pattinsonfuture/lang-traditional-chinese"
+    "source": "https://github.com/bryanyang0528/lang-traditional-chinese",
+    "issues": "https://github.com/bryanyang0528/lang-traditional-chinese"
   },
   "require": {
     "flarum/core": "^1.0"
   },
   "extra": {
     "flarum-extension": {
-      "title": "正體中文語言包",
+      "title": "正體中文（zh-tw）語言包",
         "icon": {
           "image": "icon.svg",
           "backgroundColor": "#fff",
@@ -34,8 +33,8 @@
         }
     },
     "flarum-locale": {
-      "code": "zh-hant",
-      "title": "正體中文"
+      "code": "zh-tw",
+      "title": "繁體中文(zh-tw)"
     }
   }
 }

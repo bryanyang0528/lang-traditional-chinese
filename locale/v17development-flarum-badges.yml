@@ -11,7 +11,7 @@ v17development-flarum-badges:
             metric_drivers:
                 badges_received: 收到的徽章
             not_installed:
-                content: '當安裝並激活 <a>Auto Moderator</a> 時，此擴展程序可提供更多功能。 當您安裝此擴展程序時，用戶可以自動獲得徽章獎勵，而無需社區員工的干預！'
+                content: '當安裝並啟用 <a>Auto Moderator</a> 時，此擴充套件程序可提供更多功能。 當您安裝此擴充套件程序時，用戶可以自動獲得徽章獎勵，而無需社區員工的干預！'
                 dismiss: 不再顯示
                 install: 安裝
                 title: 自動用徽章獎勵用戶

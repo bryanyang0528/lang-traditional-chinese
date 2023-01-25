@@ -5,12 +5,12 @@ fof-upload:
         help_texts:
             description: 配置上載服務及偏好設定
             disable-download-logging: 開啟此設定可查看下載量及未來可能的統計數據。
-            disable-hotlink-protection: '熱鏈保護可防止從其他站點下載。目前的方式需求 csrf token 及帖文 ID'
+            disable-hotlink-protection: '熱鏈保護可防止從其他站點下載。目前的方式需求 csrf token 及貼文 ID'
             download_templates: '下載模板是上載的檔案如何在論壇上顯示 比如預覽、按鈕等，目前支援的有：'
             mime_types: '請於此設定對映。每一個 MIME 類型的正規表示式都將由指定的上載接口處理'
             resize: 您可以選擇是否在上載圖片前調整圖片大小，您也可以設定圖片最大長寬（px），圖片大小調整將會保持圖片長寬比例
             watermark: '在圖片上載時新增水印，僅支援非 gif 圖片'
-            client_extension: "默認情況下，上傳器將根據 MIME 類型選擇一個安全的文件擴展名。\n對於某些基於 ZIP 或二進制數據的文件類型，這可能導致使用不正確的通用擴展名。\n在這裡，您可以輸入一個逗號分隔的文件擴展名列表，該列表將被逐字保留。\n"
+            client_extension: "默認情況下，上傳器將根據 MIME 類型選擇一個安全的文件擴充套件名。\n對於某些基於 ZIP 或二進制數據的文件類型，這可能導致使用不正確的通用擴充套件名。\n在這裡，您可以輸入一個逗號分隔的文件擴充套件名列表，該列表將被逐字保留。\n"
             composer_buttons: "默認情況下，媒體管理按鈕和上傳按鈕皆可見。您可以選擇只顯示其中一個按鈕。\n"
             s3_acl: "應用於上傳對象的 ACL（默認：私有）。 有關可能的值，請參閱 https://docs.aws.amazon.com/AmazonS3/latest/dev/acl-overview.html#canned-acl\n"
             s3_compatible_storage: "僅在使用 S3 兼容存儲時才需要以下設置。 如果您使用 AWS，您可以將它們留空。\n"
@@ -63,7 +63,7 @@ fof-upload:
                 title: 圖片水印
                 toggle: 圖片水印
             client_extension:
-                title: 用戶自定義文件擴展名
+                title: 用戶自定義文件擴充套件名
             composer_buttons:
                 options:
                     both: 全部顯示

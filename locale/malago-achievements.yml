@@ -1,7 +1,7 @@
 malago-achievements:
     admin:
         achievement_modal:
-            active_label: 激活
+            active_label: 啟用
             add_delete_instructions: 用戶未獲得此成就時，添加成就。已擁有成就時，收回成就。
             add_delete_title: '給予 / 收回用戶成就'
             col_label: 列
@@ -23,7 +23,7 @@ malago-achievements:
             points_placeholder: '0'
             row_label: 行
             row_placeholder: '0'
-            submit_button: 保存
+            submit_button: 儲存
             title: 創建成就
             tooltip:
                 comments: '最小從同一主題收到的回應數（例如 10）或範圍區間（例如 10,19）'

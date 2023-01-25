@@ -31,7 +31,7 @@ fof-polls:
             submit: 提交
         moderation:
             delete: 移除投票
-            delete_confirm: 你確定要移除這個投票嗎？
+            delete_confirm: 確定要移除這個投票嗎？
             edit: 編輯投票
         tooltip:
             badge: 投票

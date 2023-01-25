@@ -37,7 +37,7 @@ bazaar:
             connect-bazaar:
                 title: 連接
                 description: >
-                    將您的 Flarum 論壇連接到 {host} 上的個人帳戶以解鎖高級功能; 包括一個儀表板，可以為您提供所有連接的 Flarum 的運行狀況概覽。當您的論壇包含過時的擴展或集中更新所有 Flarum 時，我們將添加更多功能，例如通知。
+                    將您的 Flarum 論壇連接到 {host} 上的個人帳戶以解鎖高級功能; 包括一個儀表板，可以為您提供所有連接的 Flarum 的運行狀況概覽。當您的論壇包含過時的擴充套件或集中更新所有 Flarum 時，我們將添加更多功能，例如通知。
             requirements:
                 file-permissions:
                     title: 檔案屬性

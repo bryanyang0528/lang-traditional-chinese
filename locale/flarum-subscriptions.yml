@@ -23,7 +23,7 @@ flarum-subscriptions:
             not_following_button: 不關注
             not_following_text: 僅當被提及時通知我
             notify_alert_tooltip: 有新回覆時發送通知
-            notify_email_tooltip: 有新回覆時發送郵件
+            notify_email_tooltip: 有新回覆時發送信件
         following:
             meta_title_text: 關注中
     ref:

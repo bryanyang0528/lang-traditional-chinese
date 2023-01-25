@@ -1,7 +1,7 @@
 flagrow-ads:
     admin:
         buttons:
-            save: 保存
+            save: 儲存
         positions:
             between-posts:
                 placeholder: 在此處插入您的廣告代碼。

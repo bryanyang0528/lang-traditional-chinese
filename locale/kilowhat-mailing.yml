@@ -4,15 +4,15 @@
 kilowhat-mailing:
     admin:
         permissions:
-            mail_individual: 向單獨會員傳送郵件
-            mail_all: 向全部會員群組會員傳送郵件
+            mail_individual: 向單獨會員傳送信件
+            mail_all: 向全部會員群組會員傳送信件
 
     forum:
         links:
-            mail_individual: 向這個會員傳送郵件
-            mail_all: 向全部會員傳送郵件
+            mail_individual: 向這個會員傳送信件
+            mail_all: 向全部會員傳送信件
         modal_mail:
-            title_text: 撰寫郵件
+            title_text: 撰寫信件
             recipients_label: 收件人
             recipients_placeholder: 填入其他收件人...
             subject_label: 標題
@@ -24,4 +24,4 @@ kilowhat-mailing:
         default_subject: => kilowhat-mailing.ref.default_subject
 
     ref:
-        default_subject: 來自論壇管理員的郵件
+        default_subject: 來自論壇管理員的信件

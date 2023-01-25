@@ -4,7 +4,7 @@
 clarkwinkelmann-email-as-display-name:
     admin:
         permissions:
-            heading: 以郵箱作為名字
+            heading: 以信箱作為名字
             view-own: 顯示於我的個人資料中
             view-all: 顯示於全部個人資料中
         settings:

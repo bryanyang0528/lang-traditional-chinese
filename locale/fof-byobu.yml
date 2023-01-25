@@ -71,8 +71,8 @@ fof-byobu:
       view_private_discussions-when-flagged: 若有旗標則允許查看其他人的私密貼文
 
     settings:
-      use_tag_slug: 指定節點的貼文將被強制作為私密貼文
-      use_tag_slug_help: 留空以允許使用者自己選擇節點，僅適用於新增的私密貼文
+      use_tag_slug: 指定標籤的貼文將被強制作為私密貼文
+      use_tag_slug_help: 留空以允許使用者自己選擇標籤，僅適用於新增的私密貼文
 
   notifications:
     private_discussion_created:

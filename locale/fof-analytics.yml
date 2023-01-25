@@ -23,6 +23,6 @@ fof-analytics:
                 googleAnalytics: 'Google Analytics'
                 piwik: Matomo
             trackAccounts:
-                email: 按郵箱追踪
+                email: 按信箱追踪
                 none: 不要追踪
                 username: 按用戶名追踪

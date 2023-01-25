@@ -13,7 +13,7 @@ fof-best-answer:
       schedule_on_one_server: 透過 'onOneServer()' 指令作為任務排程器（需要 Redis/Memcache）
       schedule_stop_overnight: 提醒排程於非社交時間停止執行（伺服器時間 9pm - 8am）
       schedule_log_output: 輸出排程日誌到日誌存儲
-      remind_tag_ids: 若要僅提醒某些節點，請於此填入節點 ID（逗號分隔）
+      remind_tag_ids: 若要僅提醒某些標籤，請於此填入標籤 ID（逗號分隔）
       use_alt_ui: 使用新樣式（最佳回覆按鈕顯示於貼文頁腳）
   forum:
     answered_badge: 已解決

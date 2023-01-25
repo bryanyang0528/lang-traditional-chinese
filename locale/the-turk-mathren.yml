@@ -34,8 +34,8 @@ the-turk-mathren:
                         <strong>請注意</strong> <code>[math]%e%[/math]{<strong>keyword</strong>}</code> 是一個<u>無效用法</u>的示例。
             decisiveKeywordsInfo:     此列表中的第一個關鍵詞將作為預設文字編輯器。
             decisiveKeywordsWarning:  不要使用特殊字符！不然會拋出異常。
-            ignoredTags:              遞歸時需要忽略的 DOM 節點類型列表
-            ignoredClasses:           遞歸時需要忽略的 DOM 節點類名列表
+            ignoredTags:              遞歸時需要忽略的 DOM 標籤類型列表
+            ignoredClasses:           遞歸時需要忽略的 DOM 標籤類名列表
             ignoredClassesInfo:       列表中的第一個類名將作為預設包裹被忽略的表示式。
             outputMode:               輸出模式
             outputModeHelp:           選擇用於輸出的標示語言

@@ -16,7 +16,7 @@ clarkwinkelmann-scratchpad:
             compile: 編譯 JS
             settings: 編輯器設定
             new: 新增
-            new-confirmation: 現用便簽簿未儲存，丟棄並創建新的？
+            new-confirmation: 現用便簽簿未儲存，取消並創建新的？
             delete: 刪除
             delete-confirmation: 確定要刪除「{title}」 ?
             enable: 啟用

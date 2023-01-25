@@ -50,6 +50,6 @@ fof-masquerade:
         types:
             advanced: 高階
             boolean: 複選框
-            email: 郵箱
+            email: 信箱
             select: 下拉選單
             url: 連結
