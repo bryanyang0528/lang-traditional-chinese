@@ -1,6 +1,6 @@
 {
   "name": "bryanyang0528/lang-traditional-chinese-zh-tw",
-  "description": "Flarum 繁體中文語言包（zh-TW）",
+  "description": "Flarum 繁體中文語言套件（zh-tw）",
   "keywords": [
     "flarum",
     "locale",
@@ -24,7 +24,7 @@
   },
   "extra": {
     "flarum-extension": {
-      "title": "繁體中文（zh-tw）語言包",
+      "title": "繁體中文（zh-tw）語言套件",
         "icon": {
           "image": "icon.svg",
           "backgroundColor": "#fff",
