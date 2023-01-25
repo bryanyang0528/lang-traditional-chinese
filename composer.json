@@ -1,11 +1,11 @@
 {
   "name": "bryanyang0528/lang-traditional-chinese-zh-tw",
-  "description": "Flarum 正體中文語言包（zh-TW）",
+  "description": "Flarum 繁體中文語言包（zh-TW）",
   "keywords": [
     "flarum",
     "locale",
-    "Chinsese",
-    "中文"
+    "Chinsese(zh-tw)",
+    "中文(zh-tw)"
   ],
   "type": "flarum-extension",
   "license": "MIT",
