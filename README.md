@@ -1,4 +1,4 @@
-## Flarum 繁體中文（zh-TW）語言套件 / Traditional Chinese(zh-TW) Language Pack
+## Flarum 繁體中文（zh-Hant-TW）語言套件 / Traditional Chinese(zh-Hant-TW) Language Pack
 
 ### 需求 / Requirement
   - Flarum v1.0.0 or newer

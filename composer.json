@@ -24,7 +24,7 @@
   },
   "extra": {
     "flarum-extension": {
-      "title": "繁體中文(zh-Hant-TW)語言套件",
+      "title": "Traditional Chinese (zh-Hant-TW) Language Pack",
         "icon": {
           "image": "icon.svg",
           "backgroundColor": "#fff",
@@ -34,7 +34,7 @@
     },
     "flarum-locale": {
       "code": "zh-Hant-TW",
-      "title": "繁體中文(zh-Hant-TW)"
+      "title": "Traditional Chinese (zh-Hant-TW)"
     }
   }
 }
