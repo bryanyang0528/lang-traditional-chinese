@@ -5,7 +5,7 @@ fof-follow-tags:
   forum:
     settings:
       notify_new_discussion_label: 有人中我追蹤的標籤發文
-      notify_new_post_label: 有人在我追蹤的標籤回覆
+      notify_new_post_label: 有人在我追蹤的標籤推文
       notify_new_discussion_tag_label: 有人更改我追蹤的標籤
 
 
@@ -19,7 +19,7 @@ fof-follow-tags:
 
     badge:
       following_tag_tooltip: 追蹤中
-      lurking_tag_tooltip: 潛水中
+      lurking_tag_tooltip: 隱身中
 
     sub_controls:
       follow_button: => fof-follow-tags.ref.follow
@@ -30,11 +30,11 @@ fof-follow-tags:
       ignoring_button: => fof-follow-tags.ref.ignoring
       ignoring_text: 從不提醒
       lurking_button: => fof-follow-tags.ref.lurking
-      lurking_text: 有新貼文或新回覆時提醒
+      lurking_text: 有新貼文或新推文時提醒
       not_following_button: 不追蹤
       not_following_text: "僅當提及我時提醒"
-      notify_alert_tooltip: 有新貼文或新回覆時推送論壇內提醒
-      notify_email_tooltip: 有新貼文或新回覆時發送信件提醒
+      notify_alert_tooltip: 有新貼文或新推文時推送論壇內提醒
+      notify_email_tooltip: 有新貼文或新推文時發送信件提醒
 
     notifications:
       new_discussion_text: "{username} 發佈了新貼文"
@@ -57,7 +57,7 @@ fof-follow-tags:
   email:
     subject:
       newDiscussionInTag: "[標籤 | 新貼文] {title}"
-      newPostInTag: "[標籤 | 新回覆] {title}"
+      newPostInTag: "[標籤 | 新推文] {title}"
       newDiscussionTag: "[標籤 | 更換標籤] {title}"
     body:
       newDiscussionInTag: |
@@ -69,7 +69,7 @@ fof-follow-tags:
         {post_content}
       newPostInTag: |
         嗨 {recipient_display_name},
-        {actor_display_name} 回覆了你追蹤的標籤: {discussion_title}
+        {actor_display_name} 推文了你追蹤的標籤: {discussion_title}
         請點擊下述連結觀看新回覆：
         {post_url}
         ---
@@ -87,7 +87,7 @@ fof-follow-tags:
     following: 已追蹤
     hiding: 已隱藏
     ignoring: 已忽略
-    lurking: 圍觀中
+    lurking: 隱身中
     
     filtering_options:
       none: 追蹤中的討論
