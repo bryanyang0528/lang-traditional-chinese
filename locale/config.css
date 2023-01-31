@@ -40,7 +40,7 @@
 }
 
 /* Monospace */
-#font-face {
+@font-face {
   font-family: 'System Mono';
   font-style: normal;
   font-weight: 400;
