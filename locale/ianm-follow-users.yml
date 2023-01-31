@@ -15,18 +15,18 @@ ianm-follow-usersg:
     profile_link: => ianm-follow-users.lib.following_link
 
     profile_page:
-      no_following: 似乎還沒追蹤任何人
+      no_following: 你似乎還沒追蹤任何人
 
     user_controls:
       follow_button: => ianm-follow-users.lib.follow
       unfollow_button: => ianm-follow-users.lib.change_follow_type
 
     settings:
-      notify_new_follower_label: 有人追蹤我
-      notify_new_unfollower_label: 有人退追
-      notify_new_discussion_label: 我追蹤的人有新發文
-      notify_new_post_label: 我追蹤的人有新推文
-      block_follow: 防止其他人追蹤我
+      notify_new_follower_label: 有人追蹤你
+      notify_new_unfollower_label: 有人退追你
+      notify_new_discussion_label: 你追蹤的人有新發文
+      notify_new_post_label: 你追蹤的人有新推文
+      block_follow: 防止其他人追蹤你
 
     index:
       follow_tag_button: => ianm-follow-users.lib.follow
@@ -35,8 +35,8 @@ ianm-follow-usersg:
     notifications:
       new_discussion_text: "{nickname} 發文"
       new_post_text: "{nickname} 推文"
-      new_follower_text: "{nickname} 追蹤我"
-      new_unfollower_text: "{nickname} 退追我"
+      new_follower_text: "{nickname} 追蹤你"
+      new_unfollower_text: "{nickname} 退追你"
 
     badge:
       label:
@@ -44,7 +44,7 @@ ianm-follow-usersg:
         lurk: 隱身
 
     filter:
-      following: 我追蹤的使用者
+      following: 你追蹤的使用者
 
     modals:
       select_follow_level:
